@@ -1,0 +1,5 @@
+{
+  "name": "HR Telegram Bot",
+  "description": "A professional HR recruitment bot with channel subscription checks and click tracking.",
+  "requestFramePermissions": []
+}
