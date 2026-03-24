@@ -120,7 +120,7 @@ export default function App() {
                 <div className="p-4 bg-zinc-900 border border-zinc-800 rounded-xl">
                   <p className="text-xs text-zinc-500 uppercase tracking-widest mb-1">Variable</p>
                   <code className="text-emerald-400">BOT_TOKEN</code>
-                  <p className="text-xs text-zinc-600 mt-2">Your Telegram Bot Token from @BotFather</p>
+                  <p className="text-xs text-zinc-600 mt-2 break-all">8785715410:AAGwZKddDuIwp6l3DJA8eg0ztedUnpfwaPM</p>
                 </div>
                 <div className="p-4 bg-zinc-900 border border-zinc-800 rounded-xl">
                   <p className="text-xs text-zinc-500 uppercase tracking-widest mb-1">Variable</p>
